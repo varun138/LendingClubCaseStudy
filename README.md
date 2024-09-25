@@ -8,10 +8,11 @@ Lending Club, a finance company who offers variety of loans to different custome
 * [Recommendations from analysis](#recommendations-from-analysis)
 * [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
+## Business Objective
 This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. There will be risky customers who take loans and default it by not paying back.
 By finding these risky customers company can reduce their Credit losses. Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In the data set , this type of similar behavior borrowers are labeled as “Charged-Off" who are responsible for the most significant losses to the company.
 So, company wants to understand/know the variables behind this loan default, i.e. the variables which are strong indicators of default. 
@@ -20,7 +21,7 @@ The objectives of this EDA analysis is to help Lending Club in mitigating credit
         2) On the other hand, approving loans for applicants not likely to repay and at risk of default can lead to substantial financial losses for the company.
 
 
-## Conclusions
+## Recommendations from analysis
 As of the analysis performed we can derive few situations which lead to defaulting of loans mostly:
 1) Borrowers with higher DTI should be considered as high risk of defaulting.
 2) Borrowers taking loans for certain loan purposes like debt consolidation, credit card payments and
@@ -50,4 +51,4 @@ This project was developed as a part of the Executive PG Programme in Machine Le
 ## Contact
 Created by :
   - [Varun Boya](https://github.com/varun138)
-  - [Venkatesan Manivannan](https://github.com/venkemv) - feel free to contact us!
+  - [Venkatesan Manivannan](https://github.com/venkemv)
